@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AGE IN MIN AND AGE DIFF</string>
+    <string name="select_date">SELECT DATE</string>
+    <string name="selected_date">Selected date:</string>
+    <string name="Default_Selected_Date">06.10.2022</string>
+    <string name="selected_date_in_min">Selected date in min:</string>
+    <string name="age">Age Difference:</string>
+    <string name="Default_Date_In_Min">1400000</string>
+    <string name="Default_Age">0</string>
+    <string name="heading1">CALCULATE YOUR AGE IN</string>
+    <string name="heading2">MIN AND FIND AGE DIFF</string>
+</resources>
